@@ -2,7 +2,9 @@
 A breakeout clone game full of bug.  
 And no comment.  
   
-Written in C++ and CUDA C with Visual Studio 2013.  
+Written in C++ with Visual Studio 2013.  
+  
+Executable provided.
   
 ![1](./ScreenShot/ScreenShot1.png)  
   
